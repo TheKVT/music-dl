@@ -17,7 +17,7 @@ A colab notebook download from Qobuz with token and deezer with ARLs and can sha
 - More Compactable for mobiles
 
 # Usage 
-- <a href="https://colab.research.google.com/github/TheKVT/music-dl/blob/master/music_dl.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
+- <a href="https://colab.research.google.com/github/TheKVT/music-dl/blob/master/music-dl.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 - Fill the form accordingly in colab and run it!
 - To set the maximum quality, use the `--max-quality` option to `0, 1, 2, 3, 4`:
 
